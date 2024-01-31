@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Netflix","Listening to Spotify","Playing GTA VI"];
+const statusMessages = ["🥇 #1 Combat Server","🔗 .gg/hoodlifecb","❤️ Made by v2ise"];
 
 
 let currentIndex = 0;
