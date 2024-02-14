@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🥇 #1 Combat Server","🔗 .gg/hoodlifecb","❤️ Made by ise","👑 OTS"];
+const statusMessages = ["🥇 Kobra Shop","🔗 .gg/kobra","❤️ Made by ise"];
 
 
 let currentIndex = 0;
