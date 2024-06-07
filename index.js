@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🥇 Kobra Shop","🔗 .gg/kobra","❤️ Made by ise"];
+const statusMessages = ["🥇 AchillesMC","🔗 play.achillesmc.net","❤️ Gemaakt door ise"];
 
 
 let currentIndex = 0;
