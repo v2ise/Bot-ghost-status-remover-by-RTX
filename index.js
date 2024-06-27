@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🥇 AchillesMC","🔗 play.achillesmc.net","❤️ Gemaakt door ise"];
+const statusMessages = ["🥇 Winning Circle","🔗 play.havoc.games","❤️ Made by ise"];
 
 
 let currentIndex = 0;
